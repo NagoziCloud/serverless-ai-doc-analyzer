@@ -1,0 +1,65 @@
+Nagozi Cloud
+Lagos, Nigeria
+nagozicloud@gmail.com
+
+Professional Summary
+Detail-oriented Data Modeler with expertise in designing, developing, and implementing scalable data models for AI and serverless applications. Proven ability to transform complex document data into actionable insights through innovative cloud-native architectures. Experienced in AWS services, Python, and machine learning integration to enable efficient document analysis solutions.
+
+Technical Skills
+Data Modeling: Conceptual, Logical, and Physical data models; Entity-Relationship Diagrams (ERD)
+
+Cloud Platforms: AWS (Lambda, S3, DynamoDB, API Gateway, IAM)
+
+Programming Languages: Python, SQL, bash
+
+AI & Machine Learning: Natural Language Processing (NLP), Document Analysis, AWS Bedrock 
+
+Tools & Frameworks: Serverless Framework, AWS SAM, Git, VS Code, 
+
+Databases: NoSQL (DynamoDB), Relational (PostgreSQL, MySQL)
+
+Version Control: Git, GitHub
+
+Other: REST APIs, Docker, Agile methodologies
+
+Professional Experience
+Data Modeler | Bantupage
+November 2022 – Present
+
+Designed and implemented data models to support a serverless AI-powered document analysis system, improving data ingestion and retrieval efficiency by 30%.
+
+Collaborated with cloud architects and developers to build scalable data pipelines using AWS Lambda, S3, and DynamoDB.
+
+Developed JSON schemas to validate and standardize document metadata for AI processing.
+
+Worked with NLP engineers to enhance data structures for document classification and entity extraction tasks.
+
+Automated data workflows with serverless functions to reduce processing time and operational costs.
+
+Junior Data Modeler | Merboc Pharmacy
+september 2021 – November 2022
+
+Assisted in the creation of logical and physical data models for document management systems.
+
+Maintained data dictionaries and ensured data integrity across multi-source document datasets.
+
+Supported integration of AI/ML services by optimizing data formats and structures.
+
+Projects
+Serverless AI Document Analyzer (GitHub: https://github.com/NagoziCloud/serverless-ai-doc-analyzer)
+
+Developed a cloud-native document analysis solution leveraging AWS Lambda, S3, and AI services to automate document parsing and metadata extraction.
+
+Designed scalable data models to efficiently store and query extracted document data using DynamoDB.
+
+Created serverless workflows and data validation schemas to ensure high accuracy in document classification and insights extraction.
+
+Education
+Bachelor of Science in Business administration
+Trinity University, lagos, Nigeria
+Graduated: 2027
+
+
+
+
+
